@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me ... My massanger name Hip Hop Asif
 
 <!---
 Asif-001/Asif-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
